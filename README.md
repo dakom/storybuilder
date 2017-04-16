@@ -1,4 +1,4 @@
-# storybuilder
+# Storybuilder
 
 Currently a placeholder, concept is an interactive editor which follows Robert McKee's Story structure advice to enable building a story organically
 
