@@ -2,6 +2,8 @@
 
 Currently a placeholder, concept is an interactive editor which follows story structure advice to enable building a story organically
 
+See the other files for more notes as this develops
+
 On a technical level it would be built around a series of Protobufs that describe the structure at different level
 
 For example - there could be a Beat protobuf which contains the following criteria:
